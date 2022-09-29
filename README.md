@@ -30,7 +30,7 @@ you can also reach me through my email address: isabel.brolhato@gmail.com
 - 🐾❤️ Previous experiences: I have a degree in Veterinary Medicine, and a specialization in Cardiology.  
   
 
-- 🌍 Fun fact: I love to learn new languages (programming and real world ones!). I am currently learning Hindi.   
+- 🌍 Fun fact: I love to learn new languages (programming and real world ones!). 
 
 
 </td><td valign="top" width="50%">
