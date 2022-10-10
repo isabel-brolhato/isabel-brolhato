@@ -1,6 +1,3 @@
-## <div align="center">Welcome to my GitHub! 😄</div>  
-  
-
 
 
 ### About me  
@@ -24,23 +21,7 @@ you can also reach me through my email address: isabel.brolhato@gmail.com
   
 
 <br/>  
-
-<table><tr><td valign="top" width="50%">
-
-- 🐾❤️ Previous experiences: I have a degree in Veterinary Medicine, and a specialization in Cardiology.  
   
-
-- 🌍 Fun fact: I love to learn new languages (programming and real world ones!). 
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://github.com/isabel-brolhato/isabel-brolhato/blob/main/cat-typing.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
 
 <br/>  
 
