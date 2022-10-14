@@ -3,7 +3,7 @@
 ### About me  
 Hello! My name is Isabel.
 
-I'm a Java Full Stack Development student at Generation Brasil. I am also familiar with JavaScript full stack development, and I have been working on a few personal projects to experiment and learn more about each language. 
+I'm currently studying Java Full Stack Development. I have been working on a few personal projects to experiment and learn more about development.
 
 Please feel free to contact me at any time on LinkedIn (link below), and 
 you can also reach me through my email address: isabel.brolhato@gmail.com
