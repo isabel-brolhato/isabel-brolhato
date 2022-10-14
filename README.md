@@ -3,7 +3,7 @@
 ### About me  
 Hello! My name is Isabel.
 
-I'm currently studying Java Full Stack Development. I have been working on a few personal projects to experiment and learn more about development.
+I'm currently studying Java Full Stack Development. I have been working on a few personal projects to learn more about web development.
 
 Please feel free to contact me at any time on LinkedIn (link below), and 
 you can also reach me through my email address: isabel.brolhato@gmail.com
