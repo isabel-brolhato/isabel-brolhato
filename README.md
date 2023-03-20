@@ -3,10 +3,9 @@
 ### About me  
 Hello! My name is Isabel.
 
-I'm a Junior Full Stack Developer. I've mostly been interested in working with Java and JavaScript.
+I'm a Junior Software Engineer. I've mostly been working with Front End Development.
 
-Please feel free to contact me at any time on LinkedIn (link below), and 
-you can also reach me through my email address: isabel.brolhato@gmail.com
+Please feel free to contact me at any time on LinkedIn (link below).
   
   
 
