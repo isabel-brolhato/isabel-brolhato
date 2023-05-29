@@ -3,7 +3,7 @@
 ### About me  
 Hello! My name is Isabel.
 
-I'm a Junior Software Engineer. I've mostly been working with Front End Development.
+I'm a Front End Developer.
 
 Please feel free to contact me at any time on LinkedIn (link below).
   
